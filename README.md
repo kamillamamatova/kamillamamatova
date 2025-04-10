@@ -16,5 +16,5 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 ### 📫 Reach Out
 
 - Email: [kamillamamatova.km@gmail.com](mailto:kamillamamatova.km@gmail.com)
-- LinkedIn: *[www.linkedin.com/in/kamilla-mamatova]*
+- LinkedIn: *www.linkedin.com/in/kamilla-mamatova*
 - Portfolio Site: *coming soon?*
