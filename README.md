@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kamilla!
 
-<!--
-**kamillamamatova/kamillamamatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at University of Central Florida, and an aspiring software engineer. I love building tools that solve real-world problems.
 
-Here are some ideas to get you started:
+### What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[AI Resume Analyzer](https://github.com/kamillamamatova/AI-Resume-Analyzer)** – Get feedback on your resume using OpenAI's GPT
+- **[job-market-insights](https://github.com/kamillamamatova/job-market-insights)** – Data visualizations on tech job trends
+- **[kestrel-ucf](https://github.com/kamillamamatova/kestrel-ucf)** – Website for a student drone project using NextJS & TypeScript
+
+### 🧠 Tech Stack
+
+`Python` `JavaScript` `TypeScript` `React` 
+`Node.js` `Git` `HTML/CSS` `VS Code, forever`
+
+### 📫 Reach Out
+
+- Email: [kamillamamatova.km@gmail.com](mailto:kamillamamatova.km@gmail.com)
+- LinkedIn: *[www.linkedin.com/in/kamilla-mamatova]*
+- Portfolio Site: *coming soon?*
