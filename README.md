@@ -11,7 +11,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 ### 🧠 Tech Stack
 
 `Python` `JavaScript` `TypeScript` `React` 
-`Node.js` `Git` `HTML/CSS` `VS Code, forever`
+`Node.js` `Git` `HTML/CSS` `VS Code`
 
 ### 📫 Reach Out
 
