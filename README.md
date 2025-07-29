@@ -8,7 +8,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - **[job-market-insights](https://github.com/kamillamamatova/job-market-insights)** - Data visualizations on tech job trends
 - **[kestrel-ucf](https://github.com/kamillamamatova/kestrel-ucf-commit)** - Website for a student drone project using NextJS & TypeScript
 - **[notehand](https://github.com/kamillamamatova/notehand)** - Turn any transcript into “your” handwriting
-- **[sudoku-validator-swift](https://github.com/kamillamamatova/sudoku-validator-swift)** - Validate your Sudoku puzzles from a picture
+- **[sudoku-validator](https://github.com/kamillamamatova/sudoku-validator-swift)** - Validate your Sudoku puzzles from a picture
 - Portfolio Site: *coming soon*
 
 # 💻 Tech Stack:
