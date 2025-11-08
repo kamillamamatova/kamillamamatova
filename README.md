@@ -9,6 +9,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - **[kestrel-ucf](https://github.com/kamillamamatova/kestrel-ucf-commit)** - Website for a student drone project using NextJS & TypeScript
 - **[notehand](https://github.com/kamillamamatova/notehand)** - Turn any transcript into “your” handwriting
 - **[sudoku-validator](https://github.com/kamillamamatova/sudoku-validator-swift)** - Validate your Sudoku puzzles from a picture
+- **[rocket-time](https://github.com/kamillamamatova/rocket-time)** - Time management web app with AI assistant
 - Portfolio Site: *coming soon*
 
 # 💻 Tech Stack:
@@ -20,7 +21,6 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - LinkedIn: *www.linkedin.com/in/kamilla-mamatova*
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kamillamamatova&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kamillamamatova&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillamamatova&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
