@@ -20,7 +20,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - Email: [kamillamamatova.km@gmail.com](mailto:kamillamamatova.km@gmail.com)
 - LinkedIn: *www.linkedin.com/in/kamilla-mamatova*
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=kamillamamatova&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillamamatova&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
