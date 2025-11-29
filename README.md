@@ -6,10 +6,10 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 
 - **[AI Resume Analyzer](https://github.com/kamillamamatova/AI-Resume-Analyzer)** - Get feedback on your resume using OpenAI's GPT
 - **[job-market-insights](https://github.com/kamillamamatova/job-market-insights)** - Data visualizations on tech job trends
+- **[rocket-time](https://github.com/kamillamamatova/rocket-time)** - Time management web app with AI assistant
 - **[kestrel-ucf](https://github.com/kamillamamatova/kestrel-ucf-commit)** - Website for a student drone project using NextJS & TypeScript
 - **[notehand](https://github.com/kamillamamatova/notehand)** - Turn any transcript into “your” handwriting
 - **[sudoku-validator](https://github.com/kamillamamatova/sudoku-validator-swift)** - Validate your Sudoku puzzles from a picture
-- **[rocket-time](https://github.com/kamillamamatova/rocket-time)** - Time management web app with AI assistant
 - Portfolio Site: *coming soon*
 
 # Tech Stack:
