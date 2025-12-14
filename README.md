@@ -10,6 +10,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - **[kestrel ucf](https://github.com/kamillamamatova/kestrel-ucf-commit)** - Website for a student drone project using NextJS & TypeScript
 - **[notehand](https://github.com/kamillamamatova/notehand)** - Turn any transcript into “your” handwriting
 - **[sudoku validator](https://github.com/kamillamamatova/sudoku-validator-swift)** - Validate your Sudoku puzzles from a picture
+- **[mitsys-print](https://github.com/kamillamamatova/mitsys-print)** - A story-driven, puzzle-based, adventure RPG
 - Portfolio Site: *coming soon*
 
 # Tech Stack:
