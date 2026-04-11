@@ -24,7 +24,8 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - LinkedIn: *www.linkedin.com/in/kamilla-mamatova*
 
 # GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=kamillamamatova&theme=omni&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamillamamatova&theme=dark&background=0d1117&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffb6c1" alt="kamillamamatova" /></p>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=kamillamamatova&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillamamatova&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-----
