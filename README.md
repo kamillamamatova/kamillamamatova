@@ -13,7 +13,7 @@ I'm a Computer Science student at University of Central Florida, and an aspiring
 - **[Mitsys Print](https://github.com/kamillamamatova/mitsys-print)** - A story-driven, puzzle-based, adventure RPG
 - **[Kamilla Portfolio](https://github.com/kamillamamatova/kamilla-portfolio)** - My personal digital portfolio
 - **[Mini Redis](https://github.com/kamillamamatova/mini-redis)** - A concurrent gevent-based TCP key–value server with a Redis-style protocol
-- **[Focusup](https://github.com/kamillamamatova/focusup)** - A simple, embeddable timer for students and makers
+- **[FocusUp](https://github.com/kamillamamatova/focusup)** - A simple, embeddable timer for students and makers
 - **[Hot Take](https://github.com/kamillamamatova/Hot-Take)** - A full-stack discussion and matching app
 
 # Tech Stack:
